@@ -129,7 +129,7 @@ def losuj_zlicz_2(liczba_losowan, liczba_punktow,  warstwa_zasiegu="powiat_nt.sh
 
 #%%
 
-# Aby przetestować funkcję na dowolnych danych należy:
+# Aby przetestować funkcję na dowolnych danych (format: .shp; PUWG 1992) należy:
 
 #1. Wskazać katalog przechowujący granicę próbkowania (zmienna: sciezka1) 
 #2. Wskazać katalog zawierający bufory, w obrębie których będą zliczane punkty losowe (sciezka2)
