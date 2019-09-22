@@ -5,7 +5,7 @@ Created on Tue Dec  4 20:43:41 2018
 @author: Adi
 """
 
-#%% ### BIBLIOTEKI
+#%% ### PAKIETY
 
 
 
